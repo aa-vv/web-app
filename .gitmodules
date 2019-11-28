@@ -1,0 +1,6 @@
+[submodule "ontario-election-map"]
+	path = ontario-election-map
+	url = https://github.com/aa-vv/ontario-election-map
+[submodule "whisky-recommender"]
+	path = whisky-recommender
+	url = https://github.com/aa-vv/whisky-recommender
